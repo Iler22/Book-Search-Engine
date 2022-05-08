@@ -14,7 +14,7 @@ Try out the text editor app [_here_](https://iw-book-search-engine.herokuapp.com
 
 ## Screenshot
 
-[2022-05-08](https://user-images.githubusercontent.com/89151536/167293353-720a0031-dc34-42d5-b1ee-8c31b629bed1.png)]
+[(https://user-images.githubusercontent.com/89151536/167293353-720a0031-dc34-42d5-b1ee-8c31b629bed1.png)]
 
 ## Table of Contents
 
