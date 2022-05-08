@@ -1,7 +1,5 @@
 # Book-Search-Engine
 
-# Book-Search-Engine
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
@@ -14,7 +12,7 @@ Try out the text editor app [_here_](https://iw-book-search-engine.herokuapp.com
 
 ## Screenshot
 
-[(https://user-images.githubusercontent.com/89151536/167293353-720a0031-dc34-42d5-b1ee-8c31b629bed1.png)]
+![Book Search Engine](https://user-images.githubusercontent.com/89151536/167294140-733eee81-85d2-4592-b0a1-ba6123b188cd.png)
 
 ## Table of Contents
 
