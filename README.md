@@ -19,8 +19,6 @@ Try out the text editor app [_here_](https://iw-book-search-engine.herokuapp.com
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributing](#contributing)
-- [Test](#test)
 - [Questions](#questions)
 
 ## Installation
@@ -31,20 +29,15 @@ npm run install
 
 ## Usage
 
-A user will need to have nodeJS installed to be able to use this app.
+A user will need to have MongoDB and MongoDB Compass installed to be able to use this app or alternatively you can use the live app.
+
+To start the app locally a user should enter the following command:
+
+npm run develop
 
 ## License
 
 This repository is licensed under the MIT license.
-
-## Contributing
-
-This application is a demonstration.
-
-## Test
-
-To try out the application, run the following:
-`npm run start:prod`
 
 ## Questions
 
